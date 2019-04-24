@@ -1,5 +1,5 @@
 require 'spec_helper'
- 
+
 describe "GET '/' - Greeting Form" do
   it 'welcomes the user' do
     visit '/'

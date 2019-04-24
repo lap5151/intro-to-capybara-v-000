@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'spec_helper.rb'
 
 describe "GET '/' - Greeting Form" do
   it 'welcomes the user' do
